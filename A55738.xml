@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A preservative against apostacy from the communion of the Church of England Directed chiefly to the lay-members of it.</title>
+         </titleStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55738</idno><idno type="EEBO-CITATION">99833105</idno>
+  <idno type="VID">37580</idno>
+  <idno type="EEBO-PROQUEST">2240957331</idno>
+  
+            <idno type="STC">Wing P3292</idno>
+            <idno type="STC">ESTC R221858</idno>
+            <idno type="PROQUEST">99833105</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833105e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55738)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2053:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A preservative against apostacy from the communion of the Church of England Directed chiefly to the lay-members of it.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37580:1"/>
+            <p>A PRESERVATIVE AGAINST APOSTACY FROM THE COMMUNION OF THE Church of England.</p>
+            <p>Directed chiefly to the Lay-Members of it.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:37580:2"/>
+            <pb n="3" facs="tcp:37580:2"/>
+            <head>A PRESERVATIVE AGAINST APOSTACY, &amp;c.</head>
+            <p>THough the Credit of the so much ridicul'd and exploded Doctrine of <hi>Passive Obedience</hi> be sufficiently retrieved and vindicated, in a late Book deducing the History of it, and proving it by clear and incontestible Evidences to be the universal Doctrine of the Church of <hi>England,</hi> from the dawning of the happy <hi>Reformation,</hi> even to these times; yet I am not igno<g ref="char:EOLhyphen"/>rant what a deadly Wound the late Behaviour of some, so contra<g ref="char:EOLhyphen"/>ry to their avowed Principles, may give at least to some of the Lay-Members of our Church, whose Faith and Perseverance per<g ref="char:EOLhyphen"/>haps may stagger, upon comparing the Practices with the Doc<g ref="char:EOLhyphen"/>trines of some of their most eminent Spiritual <hi>Guides,</hi> upon which those avowed Enemies of our Church, the <hi>Romanist</hi> and the <hi>Atheist,</hi> may take occasion thus to accost them. <q>What think you now (may the <hi>Romanist</hi> say) of your <hi>Divines</hi> of the <hi>Church of England,</hi> whom you have had so much in Reputation; taking them to be the onely Guides that can shew you the way to Heaven? How fickle and unconstant are they, like a Weather Cock, that turns with the Wind, or as one expresses it, <hi>calculating their Sermons merely for the present Circumstances, as if the Pulpit were but a kind of a Weather-Glass, wherein the Doctrine of Obedience to Governours is higher or lower, according to the Temperature or Variation of outward Affairs:</hi> Or, as another speaks, <hi>Shifting their Principles with their Interests; and, to serve a turn, complying at one time with that which they condemn at another.</hi> They plead for the Prince as long as the Prince does plead for them, and uphold their Interest. They can boast of a fine, glorious, <hi>temporizing Loyalty,</hi> and exalt the Prero<g ref="char:EOLhyphen"/>gative, as long as it defends their Honours and Preferments. But
+<pb n="4" facs="tcp:37580:3"/> when that Shadow proves deficient, and withers like <hi>Jonah</hi>'s Gourd, then with the angry Prophet they can fall to cursing: When the King hearkens not unto them, then with that revolting People they cry out, <hi>What Portion have we in</hi> David? <hi>Neither have we Inheritance in the Son of</hi> Jesse: <hi>To your Tents, O</hi> Israel! <hi>Now see to thine own House,</hi> David.</q>
+            </p>
+            <p>
+               <q>Thus your celebrated <hi>Divines,</hi> like other mutable Mortals, are given to change, though they have often repeated and sounded in your Ears that Counsel of Wisdom, <hi>My Son, fear thou the Lord and the King, and meddle not with them that are given to change.</hi>
+               </q>
+            </p>
+            <p>
+               <q>But we are fixed and constant in our Principles, and immova<g ref="char:EOLhyphen"/>ble as a Rock, and so appear to be the genuine Sons of an infalli<g ref="char:EOLhyphen"/>ble Mother, true Members of the Church which is built upon the <hi>Rock, against which the Gates of Hell shall not prevail.</hi> That which our Adversaries brand with the name of <hi>Errour,</hi> and we call <hi>Truth,</hi> we stoutly and bravely own, and resolutely maintain, even to the loss of our Lives, and the shedding of our dearest Bloud; but that which they call <hi>Truth,</hi> when it disserves their <hi>Interest,</hi> they renounce as <hi>Errour,</hi> and blush and are ashamed to own, publishing their Retractations in Imitation of the great Saint <hi>Austin:</hi> Whereas what he delivered was a palpable <hi>Errour,</hi> and confessedly con<g ref="char:EOLhyphen"/>trary; but what they have taught, is owned to be agreeable to the holy Scriptures: What he said was spoken rashly, and but once, and condemned by the Orthodox; but what they delivered was upon mature deliberation, and frequently repeated, (of which every Anniversary was a Witness,) and the universal Doc<g ref="char:EOLhyphen"/>trine of the Reformed Church. Those dry and insipid Doctrines, which are too sublime and metaphysical for their Understandings, they quarrel with; whilst that which they say we teach, and they condemn, when it proves <hi>Argumentum ab utili,</hi> they freely espouse, condemning it in the <hi>Theory,</hi> but approving it the <hi>Practick;</hi> the <hi>Deposing of Kings</hi> being (they tell us) the Doctrine of the <hi>Church of</hi> Rome, but the Practice of the <hi>Church of</hi> England; yea, and their Doctrine too; the Soul of Popery, being by I know not what <hi>Me<g ref="char:EOLhyphen"/>tampsychosis</hi> transmigrated into a Protestant Church, whose Reli<g ref="char:EOLhyphen"/>gion is Interest, whose Godliness is Gain, whose Christian Politicks are blended with <hi>Machiavel</hi>'s Maxims, and the <hi>Leviathan</hi> Princi<g ref="char:EOLhyphen"/>ples, from whence they have learned and taught, like expert <hi>Hobbists, That Power is originally in the Body of the People; that the
+<pb n="5" facs="tcp:37580:3"/> Foundation of all Government is laid in Compact, and that the Breach of Conditions by one Party, dispenses with the Duty of the other, though con<g ref="char:EOLhyphen"/>firmed by Sacraments, Oaths, and reiterated Promises; that a Prince may be opposed in his Politick, though not in his personal Capacity; that when Religion is a part of our Property, it may be defended; and that the Determinations of Providence are to be followed; or that the Prosperity of a Cause is a Mark of its Goodness.</hi> Open your Eyes therefore, I be<g ref="char:EOLhyphen"/>seech you, dear <hi>Christians,</hi> and behold the Vanity and Unconstan<g ref="char:EOLhyphen"/>cy of your fallible Guides, and renounce their Conduct, and trust your Souls with wiser and more faithful Leaders; abandon their Errours, which, like the tremulous Light, are variable and inconsistent, short-liv'd and vanishing; and embrace the Truth, One and Uniform, Eternal and Infallible.</q> Thus pleads the sly and insinuating <hi>Romanist</hi> on the one hand, and no less craftily talks the blustering <hi>Atheist</hi> on the other, who thus assaults our zealous Protestant:</p>
+            <p>
+               <q>You see now what a magnificent Cheat and glorious Juggle Religion is. You see how you have been imposed upon by the <hi>Men in black,</hi> who do not believe themselves, nor their own Prin<g ref="char:EOLhyphen"/>ciples; who tell you fine Tales of another World, and <hi>an invisi<g ref="char:EOLhyphen"/>ble</hi> I know not what; of the Joys of Heaven, and the glories of Paradise, with as much Art as the Heathen Fables describe their <hi>Elizium;</hi> and terrifie and frighten you with the darkness and horrour of the bottomless Pit, the unquenchable Fire of <hi>Tophet,</hi> the Brimstone of the burning Lake, and that great Bugbear the Devil; and <hi>all</hi> this either to allure or scare you to your Duty: which they themselves do not regard. With what lively colors have they painted out the Sin of <hi>Resistence</hi> and <hi>Disobedience</hi> to our lawfull Sovereign? How execrable, how black and damnable a Crime have they told us it is, Adultery and Murther, though of a Crimson die, falling short of it? How often have they told us; that we must submit not onely to a kind and gentle, but to a froward Master; not onely to a good, but an evil Prince; yea, though he commences a cruel and bloudy <hi>Tyrant,</hi> and per<g ref="char:EOLhyphen"/>secutes his People, contrary to <hi>Law</hi> and <hi>Justice:</hi> That <hi>Prayers and Tears</hi> are the Weapons of the Church; that Patient Suffe<g ref="char:EOLhyphen"/>ring of Flight is her only Remedy, referring her Cause to God, who is Judge of the World, who in his own time will work her
+<pb n="6" facs="tcp:37580:4"/> Deliverance, or make her Reward so much the more glorious; that we must submit for the Lord's sake, and for Conscience sake, and that <hi>they that resist shall receive to themselves damnation:</hi> Whereas 'tis too too evident, that they neither fear the one, nor regard the other; the most solemn Oaths and Engagements, the most sacred Ties being all too weak to hold them within the bounds of Duty, which the Laws of God and the Land indis<g ref="char:EOLhyphen"/>pensibly bind them to; taking Counsel together against the Lord, and against his annointed, saying, <hi>Let us break their Bonds asunder, and cast away their Cords from us.</hi> To which I might add their exposing and ridiculing their own <hi>Loyal Doctrine,</hi> styling it <hi>superfine Loyalty,</hi> which has a dangerous and fatal tendency to introduce <hi>Arbitrary Power,</hi> and ruine and enslave the Nation. A <hi>Doctrine</hi> which they tell us now is monstrous and absurd, and which they ingenuously confess, they must repent of and recant. A <hi>Doctrine</hi> which they severely anathematise, and are startled and affrighted at; which must be banished from their Pulpits, yea, and the Preacher too, that dares open his Mouth in Vin<g ref="char:EOLhyphen"/>dication of, or makes some modest Reflexions upon it, which is a Characteristick of an ill affected Man, a murmuring Grumble<g ref="char:EOLhyphen"/>tonian, one who cannot pronounce their <hi>Shiboleth.</hi>
+               </q>
+            </p>
+            <p>
+               <q>If these your spiritual Guides, your Preachers of Righteous<g ref="char:EOLhyphen"/>ness, were mistaken in those Points of Divinity, which they have told us is warranted by the Word of God, how are you assured that they are not mistaken in all the rest?</q>
+            </p>
+            <p>
+               <q>Resume therefore your Reason which you have so tamely re<g ref="char:EOLhyphen"/>signed to your imposing <hi>Guides,</hi> having cause to suspect that all their Preaching is but elaborate Fable, a <hi>Politick Trick</hi> to amuse your Heads, and empty your Purses, and keep you in awe with the frightfull Stories of invisible <hi>Daemons,</hi> and that <hi>Chimaera of Damnation.</hi>
+               </q>
+            </p>
+            <p>
+               <q>Be governed by the Rules of Morals, be just to Men, and forget not to be just to your selves; be not, for the sake of spe<g ref="char:EOLhyphen"/>culative Fancies, guilty of a sneaking pusillanimous Self-denial, in point of Interest and Pleasures which the World affords you, resolving with St. <hi>Paul</hi>'s Epicure, as the best Politicks, <hi>Let us eat and drink, for to morrow we dye.</hi>
+               </q>
+            </p>
+            <pb n="7" facs="tcp:37580:4"/>
+            <p>Thus both the <hi>Romanist</hi> and the <hi>Atheist</hi> assault our zealous <hi>Pro<g ref="char:EOLhyphen"/>testant,</hi> who upon better grounds than the <hi>High Priest</hi> in the Gos<g ref="char:EOLhyphen"/>pel, may rent his Clothes, and cry out, <hi>They have spoken Blasphe<g ref="char:EOLhyphen"/>my;</hi> they have blasphemed God and Religion, reproaching the Mother for the fault of some of her naughty wanton Children who have suck'd her Breasts, and been dandled upon her Knees, and at length, like <hi>Jesurun,</hi> have waxed fat and kicked, and rude<g ref="char:EOLhyphen"/>ly given her the Lye, and spit in her venerable aged Face, and <hi>threaten to bring down her gray Hairs with sorrow to the Grave;</hi> so that she might justly complain in the words of the Prophet, appealing to the inanimate Bodies, <hi>Hear, O Heavens, and give ear, O Earth! I have nourished, and brought up Children, and they have rebelled against me.</hi>
+            </p>
+            <p>So that here lies the true <hi>Gravamen,</hi> the Root of the matter; and the old Proverb may be here inverted, <hi>The Children have ea<g ref="char:EOLhyphen"/>ten sowre Grapes, and the Parents Teeth are set on edge.</hi> The Children have sinned, and the Parent must suffer; they have offended, and she is guilty, and must bear the Blame and Shame. Though in<g ref="char:EOLhyphen"/>deed there is no more Reason to calumniate and reproach, to de<g ref="char:EOLhyphen"/>spise and desert the <hi>Church,</hi> and our most <hi>holy Religion,</hi> because of the undutifull Behaviour of some of her Children, than there is to pronounce <hi>Jehovah</hi> to be a false God, because the <hi>Israelites</hi> turned Idolaters, and worshipped graven Images, and the Host of Hea<g ref="char:EOLhyphen"/>ven; or to affirm that <hi>Jesus Christ</hi> was an Impostor, because one of his Disciples denied him, and the rest forsook him, and fled. No wise man ever despised Preaching of the Gospel, because <hi>Ju<g ref="char:EOLhyphen"/>das</hi> was a Traitor; or the Gifts of the Holy Ghost, because <hi>Symon</hi> the Sorcerer, a baptized Christian, would have bought them with Money. No one ever thought the worse of Christianity, because <hi>Ju<g ref="char:EOLhyphen"/>lian</hi> turn'd Apostate, and many Christian Kings and Priests imbib'd the <hi>Arian Heresie.</hi> Even in secular Affairs we are not wont to con<g ref="char:EOLhyphen"/>demn and utterly renounce the Thing, because some Persons have miscarried in the use of it. The Mariner will not bid adieu to the Sea, and forbear to occupy his business in the great Waters, be<g ref="char:EOLhyphen"/>cause some have been lost and shipwreck'd there. We do not curse the Wind, and pray that it may blow no more, because some<g ref="char:EOLhyphen"/>times it has overthrown Houses and Steeples, and sunk our Ships. We do not forswear the use of Water, because some have been
+<pb n="8" facs="tcp:37580:5"/> drown'd; or Fire, because some have been burnt by it, and our stately Buildings and Palaces have been turned to Ashes. No one is so mad as to abandon his Trade, because some who profess it turn <hi>Bankrupts.</hi> We do not abhorr, and for ever abandon the fe<g ref="char:EOLhyphen"/>male Sex in the lawfull use of Marriage, because some of the Daughters of our <hi>Israel</hi> turned Harlots, and are impudent and shameless Strumpets. Because some are drunk with Wine, we do nor therefore resolve to drink no more and with the rash <hi>Lacede<g ref="char:EOLhyphen"/>monians,</hi> to cut down all the Vines. Nor do we forbear Eating, because some are gluttonous; nor abjure the use of Physick, be<g ref="char:EOLhyphen"/>cause some, for want of Government, have been destroyd by it.</p>
+            <p>And as absurd it is in spiritual things to despise the Vertue, because of the miscarriage of the Vitious who have pretended to it. The Word of God is equaly precious, though 'tis the savour of Death unto Death to some, whilst 'tis the savour of Life unto Life to others. 'Tis unreasonable to deny the <hi>Faith, because some, having put away a good Conscience, concerning Faith have made shipwrack.</hi> They who desert our Church, and deny the Faith, because of the miscarriages of some of their spiritual <hi>Guides,</hi> declare that they e<g ref="char:EOLhyphen"/>steemed the Messengers more than the Message, or at least the Message for the Messenger's sake; that they received what they preached as the Word of Man, and not as the Word of God.</p>
+            <p>What St. <hi>Paul</hi> said to the Corinthians, that may I to such Deser<g ref="char:EOLhyphen"/>tors, or those that are tempted to it, <hi>Was</hi> Paul <hi>crucified for you? Or were you baptized in the name of</hi> Paul? So say I, Was it such or such a spiritual <hi>Guide,</hi> was it such or such a <hi>Reverend Doctor</hi> or <hi>Pastor,</hi> that was crucified for you? Or were you baptized in his Name? Is it his Word, is it his Gospel you received and believed? Is he the Captain of your Salvation? Is he the Authour and Finish<g ref="char:EOLhyphen"/>er of your Faith? If so, then indeed you may cry out, <hi>I-chabod, The Glory is departed from Israel.</hi>
+            </p>
+            <p>But hear what was Saint <hi>Paul's</hi> Sense of this matter, 2 <hi>Cor.</hi> 2.1, <hi>&amp;c. And I, Brethren, when I came to you, came not with excel<g ref="char:EOLhyphen"/>lency of Speech, or of Wisdom, declaring unto you the Testimony of God, For I determined not to know any thing among you, save Jesus Christ, and him crucified, and I was with you in Weakness, and in fear, and in much trembling. And my Speech and my Preaching was not with enti<g ref="char:EOLhyphen"/>cing
+<pb n="9" facs="tcp:37580:5"/> words of Man's Wisedom, but in demonstration of the Spirit, and of Power. That your Faith should not stand in the Wisedom of Men, but in the Power of God.</hi> And, Chap. 3.5. how does he debase himself, and his Brother <hi>Apollo,</hi> as weak Instruments in the hand of the powerfull God, as Ministers, and not Lords of the Faith of Christians, ascribing all the Honour and Power to God, who is the Author of Faith, and Giver of Grace, who by his Al<g ref="char:EOLhyphen"/>mighty Influences and heavenly Blessing, gave Increase to what <hi>Paul</hi> had planted, and <hi>Apollo</hi> watered: <hi>Who then is</hi> Paul, <hi>and who is</hi> Apollo, <hi>but Ministers by whom ye believe? I have planted,</hi> Apollo <hi>watered, but God gave the Increase; so then neither is he that planteth any thing, neither he that watereth, but God that giveth the Increase.</hi>— So far was he from assuming, as <hi>Simon Magus</hi> did, the proud and swelling Character of the <hi>Great Power of God.</hi>
+            </p>
+            <p>And that they might not mistake him to be an unerring Guide, and infallible Leader, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the chief Sheepherd, he cau<g ref="char:EOLhyphen"/>tions them, Chap. 11.1. <hi>Be followers of me,</hi> says he, not sim<g ref="char:EOLhyphen"/>ply and absolutely, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>as I also am of Christ.</hi> He did not require an implicit Faith and Obedience, merely on the account of his Authority, but exhorted them to follow him, as far as he did preach and act consonantly to the Rules of the Gospel: if otherwise, if he should have receded from his own Principles, and acted contradictorily to Gospel Faith and Manners, he did not desire or expect to be followed; nay, he implies that they should not follow him; nay, instead of following him, he allows that they should curse him with the greatest Malediction; with the se<g ref="char:EOLhyphen"/>verest Anathema.</p>
+            <p>How vehemently positive and express is he in this Case. Gal. 1. v. 8. <hi>Though we, or an Angel from Heaven preach any other Gospel un<g ref="char:EOLhyphen"/>to you than that which we have preached unto you, let him be accursed?</hi> Yea, to signifie how vehemently earnest and sincere he was in what he said, he doubles it over again, <hi>v.</hi> 9. <hi>As we said before, so say I now again, If any man preach any other Gospel unto you, than that ye have received, let him be accursed.</hi>
+            </p>
+            <p>Whatever they doe in the Church of <hi>Rome,</hi> yet we allow no such Doctrine in the Church of <hi>England,</hi> as <hi>implicit <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and Obedi<g ref="char:EOLhyphen"/>ence: i. e.</hi> to believe as the Church believes, and to doe as others doe, be it good or bad, right or wrong. <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sure it was not <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o
+<pb n="10" facs="tcp:37580:6"/> when the Church of <hi>England</hi> was in its ancient Glory, when not bewitched, and beguiled by the Serpent's Subtilty, when not cor<g ref="char:EOLhyphen"/>rupted <hi>from the simplicity that is in Christ.</hi>
+            </p>
+            <p>Every private Christian is allowed to try and judge for himself, to try the Doctrines and Practices of Men by the Word of God, with the noble <hi>Bereans</hi> to search the Scriptures, whether these things are so. 'Tis not enough that such or such an eminent <hi>Di<g ref="char:EOLhyphen"/>vine</hi> says or does so and so: Be it an <hi>Apostle,</hi> or an <hi>Apostolical Man,</hi> or <hi>Pope,</hi> or a <hi>Cardinal,</hi> a <hi>Bishop,</hi> or a <hi>Presbyter,</hi> or whosoever he be, that makes the greatest figure for Learning and Piety; if he recedes from his own Principles, which he has delivered and we received as Principles of Honesty and Justice, and consonant to the Rules of the Gospel; if he speaks and acts contradictorily and inconsistently with himself, and the Standard, the Rule of Gospel Faith and Manners; follow him not, reject him, conform not to his Example; (<hi>i. e.</hi> in those Instances of his Errour,) he is an <hi>Ignis fatuus,</hi> a deceitfull Light; he will lead you into Bogs and Pits, and upon the Precipice of Destruction. I'll not follow an Apostle any farther than he follows Christ; for Man, and the best of Men, is but a fallible Creature. Be followers of me, says St. <hi>Paul,</hi> as far as I am of Christ, who is an infallible Guide, an unerring Leader, the great <hi>Sovereign Example</hi> which God hath set forth in his Word, to be imitated by Christians, to which they owe, and must pay a simple and absolute Conformity, and that in all the Instances of doing and suffering; so says St. <hi>Peter,</hi> 1 Pet. 2.21, 22, 23 <hi>For even hereunto are ye called, because Christ also suffered for us, leaving us an Example</hi> (the great Example of Passive Obedience) <hi>th<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> we should follow his steps: Who did no sin, neither was guile found in his Mouth: Who when he was reviled, reviled not again; when he suffered he threa<g ref="char:EOLhyphen"/>tened not, but committed himself to him who judgeth righteously.</hi> Him we must chiefly eye and look to, as the bright Morning Star, the Pillar of Fire and the Cloud to lead us through the Wilderness unto <hi>Canaan.</hi> So the <hi>Apostle</hi> directs the <hi>Hebrew Christians,</hi> Heb. 12.2. Having in the former verse exhorted them to follow the example of the Saints, whom he styles a Cloud of Witnesses, yet considering that the Example of the Saints is but the Example of fallible men, be therefore points to a surer, a more Unerring Guide and infal<g ref="char:EOLhyphen"/>lible Leader, <hi>Looking unto Jesus, the Author and Finisher of our faith
+<pb n="11" facs="tcp:37580:6"/> who for the joy that was set before him, endured the Cross, despising the shame, and is set down at the right hand of the Throne of God.</hi>
+            </p>
+            <p>But <hi>Jesus,</hi> is in <hi>Heaven,</hi> whom then must we follow upon Earth?</p>
+            <p>I Answer. Follow your spiritual Guides (though mistaken in other things (as far as they follow <hi>Christ, who is the way, the Truth, and the Life, Let God be true and every Man a Lyar.</hi> Truth will stand though Men fall, being like the great Mountains which God hath Established for ever.</p>
+            <p>'Tis unaccountable folly and madness therefore, to renounce the Truth of God, because of the Errours of men, who are <hi>Vanity and a Lie,</hi> to abandon Religion because of the failings of the Reli<g ref="char:EOLhyphen"/>gious. 'Tis unreasonabe to desert a Church became of the miscar<g ref="char:EOLhyphen"/>riage of some of her ministers, especially such a Church (as ours of <hi>England</hi> is) which by painest and clearest Title is Heir apparent to the true and Rightfull successour to that of which Christ himself is the Chief corner stone: A Church sufficiently purged from the Re<g ref="char:EOLhyphen"/>mainder of the Heathenish and <hi>Jewish</hi> Rites, and the corruptions ond superstitions of <hi>Rome, by Him whose fan is in his hand, and who hath throughly purged his floor, who with</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> his Evan<g ref="char:EOLhyphen"/>gelical scourge hath driven the profane out of his House of Prayer, which they made a Den of Thieves. A Church whose Doctrine is Orthodox, whose Worship is Primitive and Apostolical, whose Cere<g ref="char:EOLhyphen"/>monies are few and modest, decent and significant, whose Govern<g ref="char:EOLhyphen"/>ment is prudent and moderate, neither too severe nor too loose; neither Tyrannical nor Licentious: In a word, a Church keeping the Golden Mean between <hi>Scilla</hi> and <hi>Car<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bdis,</hi> the dangerous Ex<g ref="char:EOLhyphen"/>tremes of Superstition and Enthusiasm. And they who basely desert and forsake such a Church, the Curse of a provoked God and an A<g ref="char:EOLhyphen"/>bused Mother will light upon them.</p>
+            <p>And though some of her <hi>Sons</hi> have given Scandal and Offence, (though that is no Warrant neither to desert the Church,) yet I dare affirm that there is <hi>a Considerable Number (though perhaps it can<g ref="char:EOLhyphen"/>not be said as God did to Elijah when he complained the Children of Israel have forsaken thy Covenant, thrown down thine Altars, and slain thy Pro<g ref="char:EOLhyphen"/>phet with the Sword, and I even I only am left, and they seek my life to take it away whom God comforted with this Assurance, yet I have left
+<pb n="12" facs="tcp:37580:7"/> me</hi> 7000 <hi>in</hi> Israel, <hi>all the knees which have not bowed unto</hi> Baal, <hi>and eve<g ref="char:EOLhyphen"/>ry mouth which hath not kissed him,)</hi> yet, I say, I dare affirm, that there is a considerable number of as great and good, and pious, and as learned men, who have not flinched or stirred a tittle from the old Gospel Loyal Principles of the Church of <hi>England.</hi>
+            </p>
+            <p>
+               <q>And though in following their Principles (to use the words of a Reverend Divine) they endanger their worldly Interest, and fall under the Disgrace of a Rabble and the Persecution of a prevailing <hi>Faction,</hi> yet their very Enemies will be forced to reve<g ref="char:EOLhyphen"/>rence and honour them, to acknowledge that they are constant, and brave, and honest, and resigned to their own Principles. Who, remember, had once the Rule over you, who have spo<g ref="char:EOLhyphen"/>ken unto you the Word of God, whose Faith follow.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37580:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
